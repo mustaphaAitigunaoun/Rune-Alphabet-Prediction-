@@ -3,11 +3,19 @@
 
 This project focuses on building a machine learning model to predict and classify ancient rune alphabet symbols from images. Using a dataset of rune images, the model is trained to recognize and classify different rune letters, such as Fehu, Uruz, Ansuz, and more.
 
+## Inspiration
+
+
+
+This project is inspired by the series Ragnarok, which features rune letters as part of its mythological and cultural elements. Fascinated by these symbols, I decided to create a machine learning model that can predict and classify them accurately.
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
+- [Deployement](#deployement)
 
 
 ---
@@ -59,3 +67,11 @@ Ensure you have Python 3.8 or higher installed. Then, install the required packa
 
    ```bash
    pip install -r requirements.txt
+
+   ````
+
+
+## Deployement
+
+For the deployement i use Streamlit Share.
+ Here is the link to see the project:  https://rune-prediction.streamlit.app/
