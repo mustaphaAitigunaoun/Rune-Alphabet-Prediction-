@@ -5,7 +5,8 @@ This project focuses on building a machine learning model to predict and classif
 
 ## Inspiration
 
-
+| ![Rune Alphabet Sample](ragnarok.jpg) |
+|:--:|
 
 This project is inspired by the series Ragnarok, which features rune letters as part of its mythological and cultural elements. Fascinated by these symbols, I decided to create a machine learning model that can predict and classify them accurately.
 
